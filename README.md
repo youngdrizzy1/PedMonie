@@ -54,10 +54,18 @@ PedMonie, a fintech startup, is developing a new digital payment solution that c
 - Visualized trends and patterns using column charts, bar charts, pie chart etc.
 
 ## Insights
-### 1.
+### 1. Overview of Key Fintech Players
+- The dataset highlights major fintech companies in Nigeria, including Paystack, Flutterwave, Interswitch, Kora, Moniepoint, Paga, Fincra, and PayU Nigeria.
+- Each company offers a mix of payment gateways, APIs, virtual accounts, POS systems, and merchant services.
+- Founding years vary, with Interswitch (2002) and PayU Nigeria (2002) being the oldest, while Fincra (2019) is the newest entrant.
+    ![1](https://github.com/user-attachments/assets/f1f06fda-e603-445b-89da-57f394d4fedc)
 
-### 2. 
-
+### 2. Ownership and Business Models
+- The majority of the companies are private, with only a few public entities.
+- Paystack, Flutterwave, Kora, and Fincra are strong private fintech firms leading in digital payment innovation.
+- Moniepoint and PayU Nigeria have a blend of private and public structures, indicating potential investor backing or market listing.
+    ![2](https://github.com/user-attachments/assets/9193e4bc-607f-4970-9d70-746ce224e12e)
+  
 ### 3. 
 
 ### 4. 
