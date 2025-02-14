@@ -77,7 +77,14 @@ PedMonie, a fintech startup, is developing a new digital payment solution that c
 - Paga emphasizes agent banking and merchant networks, targeting financial inclusion.
 - Interswitch remains a key player in payment infrastructure and lending services.
 
-### 5. 
+### 5. Nigeria Leads Overwhelmingly
+- Nigeria has a commanding 90 references, way ahead of every other location. This suggests a serious focus on Nigeria, either in business, discussions, or data representation.
+- Limited Global Spread: The rest of the world refers to themselves significantly less: Cyprus (5), USA (4), South Africa (3), and the United Kingdom (3).
+- Locations like Estonia, Ethiopia, Uganda, and Tanzania are referenced only 1 time, demonstrating minimal presence.
+
+Probable Data Bias
+- The variation in mentions suggests that the dataset is either very Nigeria-centric or on a subject where Nigeria is a top contributor.
+    ![3](https://github.com/user-attachments/assets/95c56622-d5ab-4821-bfdf-1dcc6421ba67)
 
 ## Recommendations
 - Payment Consolidation: Focus on offering a truly unified payment platform that integrates mobile money, bank transfers, and card payments seamlessly to set PedMonie apart from competitors.
