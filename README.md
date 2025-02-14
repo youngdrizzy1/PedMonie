@@ -20,6 +20,16 @@ PedMonie, a fintech startup, is developing a new digital payment solution that c
 
 ### Research
 - Customer Testimonials – Flutterwave
+- Paystack's Wall of Love
+- Kora Company Database
+- Finext Conference
+- Nigeria PayU
+- Partnersfingers
+- MyPaga
+
+## Workflow
+### Research & Data Collection
+- Customer Testimonials – Flutterwave
   - Real user reviews of the strengths, challenges, and adoption trends of Flutterwave's payment products.
 
 - Paystack's Wall of Love
@@ -39,14 +49,6 @@ PedMonie, a fintech startup, is developing a new digital payment solution that c
 
 - MyPaga
   - Analysis from one of Nigeria's earliest mobile money and digital payment companies, offering insights into financial inclusion and consumer uptake.
-
-## Workflow
-### Research & Data Collection
-
-
-
-### Data Generation & Processing:
-
 
 ### Data Analysis & Visualization
 - Visualized trends and patterns using column charts, bar charts, pie chart etc.
