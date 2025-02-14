@@ -19,8 +19,6 @@ PedMonie, a fintech startup, is developing a new digital payment solution that c
 - Power BI
 
 ### Research
-- CBN & NBS Reports: Official statistics on financial inclusion, income distribution, and digital finance adoption.
-- Industry Research & FinTech Websites: Insights into services, pricing models, and consumer behavior from platforms like Flutterwave, Paystack, OPay, Kuda etc.
 
 ## Workflow
 ### Research & Data Collection
