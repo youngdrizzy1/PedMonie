@@ -90,3 +90,11 @@ PedMonie, a fintech startup, is developing a new digital payment solution that c
 - Promote Financial Literacy: Offer educational resources to enhance financial literacy and increase adoption of digital payments, especially in underserved markets.
 
 ## Challenges
+- Regulatory Compliance: Navigating Nigeria’s complex regulatory landscape could be a challenge and requires ongoing attention to ensure legal and financial compliance.
+- Market Competition: Competing with established players like Paystack, Flutterwave, and Interswitch, PedMonie will need to differentiate itself by offering unique features and value.
+- Building Trust & Adoption: Establishing brand trust and gaining consumer confidence in a competitive market will take time and require a focus on reliability and security.
+- Transaction Failures & Infrastructure: Nigeria's payment infrastructure can sometimes be unstable, leading to transaction issues; improving system stability and reliability will be key.
+- Customer Acquisition Costs: PedMonie may face high marketing and customer acquisition costs, requiring strategic and cost-effective marketing initiatives.
+- Scalability: Scaling the platform’s infrastructure to accommodate growing transaction volumes, especially during peak periods, is crucial for long-term growth.
+- Cybersecurity Concerns: Digital payment platforms are vulnerable to cyber threats, making investment in robust cybersecurity systems essential to protect customer data and build trust.
+- Customer Service: Ensuring a responsive and effective customer service system will be critical in maintaining customer satisfaction and solving any transactional issues quickly.
