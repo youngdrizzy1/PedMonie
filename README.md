@@ -1,4 +1,4 @@
-# FINTECH ANALYSIS
+# PEDMONIE
 
 ## Table of Content
 - [Project Overview](#Project-Overview)
